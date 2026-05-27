@@ -1,16 +1,28 @@
 # Привет! Я Никита Семененко 👋
 
-Java-разработчик, также пишу на Python и HTML/CSS. Ищу работу.
+Java-разработчик, также пишу на Python, Django и Aiogram. Ищу работу.
 
 ## 🛠 Стек технологий
 
 **Java:** Spring Boot, Maven, Gradle, JUnit, Selenide, Allure  
-**Python:** Django, DRF, Aiogram, Pygame, Tkinter, SQLite  
+**Python:** Django, DRF, Aiogram, Celery, Channels, Pillow, MoviePy  
 **Web:** HTML, CSS, Bootstrap  
-**DevOps:** Docker, PostgreSQL, Git, CI/CD  
-**Тестирование:** Selenium, Selenide, Allure
+**Базы данных:** SQLite, PostgreSQL  
+**DevOps:** Docker, Git, CI/CD  
+**Testing:** Selenium, Selenide, Allure, JUnit
 
-## 📌 Портфолио
+## 📌 Портфолио — Последние проекты
+
+### Python / Django / Telegram-боты
+
+| Проект | Описание | Стек |
+|--------|----------|------|
+| [SpeakSmart](https://github.com/Inaba1995/King_speak) | Telegram-бот для голосовой практики языка с распознаванием Whisper | Aiogram, Whisper, gTTS, SQLite |
+| [SmartNews](https://github.com/Inaba1995/Nowkeee) | Агрегатор новостей с RSS-парсингом и GPT-пересказами | Django, DRF, Celery, ProxyAPI, Aiogram |
+| [LinguaTrack](https://github.com/Inaba1995/Inoster) | Флеш-карточки с интервальным повторением (SM-2) | Django, gTTS, SM-2, Aiogram, Celery |
+| [PsyAI](https://github.com/Inaba1995/PsyAI) | ИИ-платформа для психологических консультаций с GPT-чатом | Django, Channels, WebSocket, ProxyAPI, Stripe |
+| [MiniSocial](https://github.com/Inaba1995/Lion_soc) | Социальная сеть: посты, лайки, комментарии, подписки, сообщения | Django, AJAX, Bootstrap, jQuery |
+| [Vertical Video Maker](https://github.com/Inaba1995/VerticalVideoMaker) | CLI-генератор вертикальных видео (Reels/Shorts) | Python, MoviePy, Pillow |
 
 ### Java
 
@@ -21,41 +33,15 @@ Java-разработчик, также пишу на Python и HTML/CSS. Ищу
 | [recipe-calc](https://github.com/Inaba1995/recipe-calc) | Java, Maven | Калькулятор пропорций ингредиентов |
 | [deadline](https://github.com/Inaba1995/deadline) | Spring Boot, Gradle, Docker, PostgreSQL | Docker-контейнер с БД |
 | [docker_db_api](https://github.com/Inaba1995/docker_db_api) | Spring Boot, Docker, PostgreSQL | REST API через Docker |
-| [test_selenide_card_form](https://github.com/Inaba1995/test_selenide_card_form) | Selenide, JUnit, Maven | UI-тесты формы карты |
-| [test_selenide_card_replan](https://github.com/Inaba1995/test_selenide_card_replan) | Selenide, JUnit, Maven | UI-тесты перевыпуска карты |
-| [test_selenium](https://github.com/Inaba1995/test_selenium) | Selenium, JUnit, Maven | Веб-автотесты |
 
-### Python / Django
-
-| Проект | Стек | Что делает |
-|--------|------|------------|
-| [cocial_bord](https://github.com/Inaba1995/cocial_bord) | Django, Bootstrap, AJAX | Социальная сеть: посты, лайки, комментарии |
-| [id](https://github.com/Inaba1995/id) | Django REST Framework, pyTelegramBotAPI | Telegram бот + REST API |
-| [mig_1](https://github.com/Inaba1995/mig_1) | Django REST Framework, pyTelegramBotAPI | Telegram бот + API (HTTP 201) |
-| [homi_telebotus](https://github.com/Inaba1995/homi_telebotus) | Aiogram, Google Translate, gTTS | Telegram бот-переводчик с озвучкой |
-| [School_data_T](https://github.com/Inaba1995/School_data_T) | Aiogram, SQLite, FSM | Telegram бот для сбора данных |
-| [who_wants_to_be_a_millionaire](https://github.com/Inaba1995/who_wants_to_be_a_millionaire) | Tkinter | Игра-викторина |
-| [game-2](https://github.com/Inaba1995/game-2) | Pygame | Аркадная галерея |
-| [button](https://github.com/Inaba1995/button) | Aiogram | Telegram бот с inline-кнопками |
-| [uta](https://github.com/Inaba1995/uta) | Aiogram, SQLite | Telegram бот учёта финансов |
-| [apiapiapi](https://github.com/Inaba1995/apiapiapi) | Aiogram | Многофункциональный Telegram бот |
-
-### ООП-примеры (Python)
+### Другие Python-проекты
 
 | Проект | Суть |
 |--------|------|
-| [game-for-plan](https://github.com/Inaba1995/game-for-plan) | Пошаговая RPG с наследованием классов |
-| [Krostiki-zeroki1.0](https://github.com/Inaba1995/Krostiki-zeroki1.0) | Крестики-нолики |
-| [Z-3](https://github.com/Inaba1995/Z-3) | Калькулятор площади фигур |
-| [user-denite](https://github.com/Inaba1995/user-denite) | Система ролей и прав доступа |
-| [fighter](https://github.com/Inaba1995/fighter) | Абстрактные классы оружия |
-| [horror](https://github.com/Inaba1995/horror) | Наследование классов животных |
-
-### Веб-вёрстка
-
-| Проект | Стек |
-|--------|------|
-| [Site-For-Import](https://github.com/Inaba1995/Site-For-Import) | HTML, CSS, JavaScript |
+| [homi_telebotus](https://github.com/Inaba1995/homi_telebotus) | Telegram-бот-переводчик с озвучкой |
+| [uta](https://github.com/Inaba1995/uta) | Telegram-бот учёта финансов |
+| [who_wants_to_be_a_millionaire](https://github.com/Inaba1995/who_wants_to_be_a_millionaire) | Игра-викторина (Tkinter) |
+| [game-2](https://github.com/Inaba1995/game-2) | Аркадная галерея (Pygame) |
 
 ## 📫 Контакты
 
