@@ -33,4 +33,4 @@
 
 Открыт к проектам: лендинг, бот, автоматизация, MVP.
 
-📫 **Связаться:** Telegram — [@kopikiii](https://t.me/kopikiii) · Email — [nik21081995@yandex.ru](mailto:nik21081995@yandex.ru)
+📫 **Связаться:** Telegram — [@kopikiii](https://t.me/kopikiii) · Email — [nik21081995@yandex.ru](mailto:nik21081995@yandex.ru) · [nik21091995@gmail.com](mailto:nik21091995@gmail.com)
