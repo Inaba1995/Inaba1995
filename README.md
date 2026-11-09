@@ -1,49 +1,36 @@
-# Привет! Я Никита Семененко 👋
+# Привет, я Nikita 👋
 
-Java-разработчик, также пишу на Python, Django и Aiogram. Ищу работу.
+**Freelancer · Vibe Coder**
 
-## 🛠 Стек технологий
+Делаю сайты, чат-ботов и веб-приложения с помощью AI-инструментов: от лендинга до CRM-трекера с базой данных и деплоем. Также пишу на Python/Django и Java/Spring.
 
-**Java:** Spring Boot, Maven, Gradle, JUnit, Selenide, Allure  
-**Python:** Django, DRF, Aiogram, Celery, Channels, Pillow, MoviePy  
-**Web:** HTML, CSS, Bootstrap  
-**Базы данных:** SQLite, PostgreSQL  
-**DevOps:** Docker, Git, CI/CD  
-**Testing:** Selenium, Selenide, Allure, JUnit
+## Чем помогаю
 
-## 📌 Портфолио — Последние проекты
+- Сайты и лендинги — структура, тексты, адаптив, формы заявок.
+- Чат-боты — Telegram/VK: консультации, запись, заявки.
+- Веб-приложения — трекеры, CRM, API.
+- AI-интеграции — LLM в бизнес-процессах.
 
-### Python / Django / Telegram-боты
+## Стек
 
-| Проект | Описание | Стек |
-|--------|----------|------|
-| [SpeakSmart](https://github.com/Inaba1995/King_speak) | Telegram-бот для голосовой практики языка с распознаванием Whisper | Aiogram, Whisper, gTTS, SQLite |
-| [SmartNews](https://github.com/Inaba1995/Nowkeee) | Агрегатор новостей с RSS-парсингом и GPT-пересказами | Django, DRF, Celery, ProxyAPI, Aiogram |
-| [LinguaTrack](https://github.com/Inaba1995/Inoster) | Флеш-карточки с интервальным повторением (SM-2) | Django, gTTS, SM-2, Aiogram, Celery |
-| [PsyAI](https://github.com/Inaba1995/PsyAI) | ИИ-платформа для психологических консультаций с GPT-чатом | Django, Channels, WebSocket, ProxyAPI, Stripe |
-| [MiniSocial](https://github.com/Inaba1995/Lion_soc) | Социальная сеть: посты, лайки, комментарии, подписки, сообщения | Django, AJAX, Bootstrap, jQuery |
-| [Vertical Video Maker](https://github.com/Inaba1995/VerticalVideoMaker) | CLI-генератор вертикальных видео (Reels/Shorts) | Python, MoviePy, Pillow |
+`HTML/CSS/JS` · `Python` · `Django` · `TypeScript` · `React` · `Node.js` · `PostgreSQL` · `Docker` · `LLM API` · `Java/Spring`
 
-### Java
+## Избранные проекты
 
-| Проект | Стек | Что делает |
-|--------|------|------------|
-| [app-ibank-build](https://github.com/Inaba1995/app-ibank-build) | Spring Boot, Maven, PostgreSQL | REST API для интернет-банкинга |
-| [allure](https://github.com/Inaba1995/allure) | JUnit, Allure, Maven | Автотесты с детальными отчётами |
-| [recipe-calc](https://github.com/Inaba1995/recipe-calc) | Java, Maven | Калькулятор пропорций ингредиентов |
-| [deadline](https://github.com/Inaba1995/deadline) | Spring Boot, Gradle, Docker, PostgreSQL | Docker-контейнер с БД |
-| [docker_db_api](https://github.com/Inaba1995/docker_db_api) | Spring Boot, Docker, PostgreSQL | REST API через Docker |
+| Проект | Задача | Стек |
+|---|---|---|
+| [Трекер 1С](https://github.com/Inaba1995/integration-tracker) | Управление интеграцией ИИ-ассистента с 1С | TypeScript, React, Prisma, PostgreSQL |
+| [Чат-бот «Нина»](https://github.com/Inaba1995/salon-bot) | Запись клиентов в салон прямо в VK | Python, VK API, LLM, SQLite |
+| [Лендинг «Честная Кожа»](https://github.com/Inaba1995/chestnaya-kozha-landing) | Сайт косметолога с записью | HTML, CSS, JS |
+| [Лендинг «Земля и Право»](https://github.com/Inaba1995/zemlya-i-pravo-landing) | Сайт юриста по земельным спорам | HTML, CSS, JS |
+| [B2B-рассылка](https://github.com/Inaba1995/b2b-mailer) | Персонализированные письма через LLM | Python, OpenAI API, SMTP |
 
-### Другие Python-проекты
+## Другие проекты
 
-| Проект | Суть |
-|--------|------|
-| [homi_telebotus](https://github.com/Inaba1995/homi_telebotus) | Telegram-бот-переводчик с озвучкой |
-| [uta](https://github.com/Inaba1995/uta) | Telegram-бот учёта финансов |
-| [who_wants_to_be_a_millionaire](https://github.com/Inaba1995/who_wants_to_be_a_millionaire) | Игра-викторина (Tkinter) |
-| [game-2](https://github.com/Inaba1995/game-2) | Аркадная галерея (Pygame) |
+[SpeakSmart](https://github.com/Inaba1995/King_speak) · [SmartNews](https://github.com/Inaba1995/Nowkeee) · [LinguaTrack](https://github.com/Inaba1995/Inoster) · [PsyAI](https://github.com/Inaba1995/PsyAI) · [MiniSocial](https://github.com/Inaba1995/Lion_soc) · [Vertical Video Maker](https://github.com/Inaba1995/VerticalVideoMaker)
 
-## 📫 Контакты
+## Сейчас
 
-- GitHub: [Inaba1995](https://github.com/Inaba1995)
-- Telegram: @stalker_net_ru
+Открыт к проектам: лендинг, бот, автоматизация, MVP.
+
+📫 **Связаться:** Telegram — [@kopikiii](https://t.me/kopikiii) · Email — [nik21081995@yandex.ru](mailto:nik21081995@yandex.ru)
