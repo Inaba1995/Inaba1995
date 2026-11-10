@@ -2,6 +2,8 @@
 
 **Freelancer · Vibe Coder**
 
+**Портфолио:** [inaba1995.github.io/portfolio](https://inaba1995.github.io/portfolio/)
+
 Делаю сайты, чат-ботов и веб-приложения с помощью AI-инструментов: от лендинга до CRM-трекера с базой данных и деплоем. Также пишу на Python/Django и Java/Spring.
 
 ## Чем помогаю
