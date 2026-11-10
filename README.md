@@ -21,13 +21,15 @@
 |---|---|---|
 | [Трекер 1С](https://github.com/Inaba1995/integration-tracker) | Управление интеграцией ИИ-ассистента с 1С | TypeScript, React, Prisma, PostgreSQL |
 | [Чат-бот «Нина»](https://github.com/Inaba1995/salon-bot) | Запись клиентов в салон прямо в VK | Python, VK API, LLM, SQLite |
-| [Лендинг «Честная Кожа»](https://github.com/Inaba1995/chestnaya-kozha-landing) | Сайт косметолога с записью | HTML, CSS, JS |
+| [Лендинг «Честная Кожа»](https://github.com/Inaba1995/chestnaya-kozha-landing) · [живой сайт](https://resilient-seahorse-56fa59.netlify.app) | Сайт косметолога с записью | HTML, CSS, JS |
 | [Лендинг «Земля и Право»](https://github.com/Inaba1995/zemlya-i-pravo-landing) | Сайт юриста по земельным спорам | HTML, CSS, JS |
 | [B2B-рассылка](https://github.com/Inaba1995/b2b-mailer) | Персонализированные письма через LLM | Python, OpenAI API, SMTP |
 
 ## Другие проекты
 
-[SpeakSmart](https://github.com/Inaba1995/King_speak) · [SmartNews](https://github.com/Inaba1995/Nowkeee) · [LinguaTrack](https://github.com/Inaba1995/Inoster) · [PsyAI](https://github.com/Inaba1995/PsyAI) · [MiniSocial](https://github.com/Inaba1995/Lion_soc) · [Vertical Video Maker](https://github.com/Inaba1995/VerticalVideoMaker)
+[SpeakSmart](https://github.com/Inaba1995/King_speak) · [SmartNews](https://github.com/Inaba1995/Nowkeee) · [LinguaTrack](https://github.com/Inaba1995/Inoster) · [PsyAI](https://github.com/Inaba1995/PsyAI) · [MiniSocial](https://github.com/Inaba1995/Lion_soc) · [Vertical Video Maker](https://github.com/Inaba1995/VerticalVideoMaker) · [VisaTrackerBot](https://github.com/Inaba1995/VisaTrackerBot) · [homi_telebotus](https://github.com/Inaba1995/homi_telebotus)
+
+**Лендинги:** [трейдинг-клуб](https://lucent-taiyaki-9b128b.netlify.app) · [памятный сайт](https://astonishing-churros-a80f32.netlify.app) · [стоматология](https://bejewelled-trifle-d98d5f.netlify.app) · [косметолог](https://resilient-seahorse-56fa59.netlify.app) · [юруслуги](https://precious-madeleine-db3099.netlify.app)
 
 ## Сейчас
 
